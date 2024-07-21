@@ -5,8 +5,10 @@
   font-family: sans-serif;
 }
 :root{
-  --light-color:rgb(249, 252, 255);
+  --light-color:whitesmoke;
   --dark-color:black;
-  --primary-color:red;
+  --primary-color:#104c91;
+  --secondary-color:#efc9af;
+  --tertiary-color:#1f8ac0;
   
 }
