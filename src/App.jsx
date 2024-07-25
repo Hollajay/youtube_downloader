@@ -9,6 +9,9 @@ function App() {
   return (
     <>
      <Hero/>
+     {/* {
+      console.log(Math.round(Math.random() * 10000))
+     } */}
     </>
   )
 }
